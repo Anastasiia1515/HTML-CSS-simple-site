@@ -1,0 +1,50 @@
+body {
+	background: url("../images/olive.png");
+	font-family: Calibri;
+	color: #34421E;
+	font-size: 20px;
+	margin-left:50px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	box-shadow: 0 5px 10px #ccc;
+	margin-top: 20px;
+	border-radius: 50%;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 10px;
+}
+h2 {
+	line-height: normal;
+}
+
+}
+.education, .experience {
+	text-align: left;
+	margin-top: 0px;
+	line-height: 22px;
+}
+.skills {
+	text-align: left;
+	margin-top: 0px;
+}
+
+.computer_skills {
+	text-align: left;
+	margin-top: 0px;
+}
+.education_subtitle, .experience_subtitle, .skills_subtitle, .computer_subtitle {
+	color: #c19434;
+}
+div, .contacts {
+text-align: center;
+}
+
+footer {
+	text-align: center;
+	color: #34421E;
+}
